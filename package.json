@@ -1,0 +1,30 @@
+{
+  "name": "calculadora-cypress-cucumber",
+  "version": "1.0.0",
+  "description": "POC para teste automatizado",
+  "main": "index.js",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^11.5.1",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.1.3",
+    "cypress": "^10.3.1",
+    "esbuild": "^0.14.49",
+    "multiple-cucumber-html-reporter": "^1.21.4"
+  },
+  "scripts": {
+    "cy.run": "cypress open",
+    "cy.exe": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllexCosta/calculadora-cypress-cucumber.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Allex V Costa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AllexCosta/calculadora-cypress-cucumber/issues"
+  },
+  "homepage": "https://github.com/AllexCosta/calculadora-cypress-cucumber#readme"
+}
