@@ -18,6 +18,7 @@ const createEsbuildPlugin =
 // }
 
 module.exports = defineConfig({
+  projectId: '1vzmbt',
   e2e: {
     async setupNodeEvents(on, config) {
       const bundler = createBundler({

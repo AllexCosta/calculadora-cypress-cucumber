@@ -14,7 +14,7 @@
             "line": 9,
             "name": "que eu acesso a calculadora",
             "result": {
-              "duration": 450000000,
+              "duration": 811000000,
               "status": "passed"
             },
             "match": {
@@ -26,7 +26,7 @@
             "line": 10,
             "name": "desejo realizar uma \"somar\"",
             "result": {
-              "duration": 15000000,
+              "duration": 17000000,
               "status": "passed"
             },
             "match": {
@@ -38,7 +38,7 @@
             "line": 11,
             "name": "informar os valores",
             "result": {
-              "duration": 411000000,
+              "duration": 350000000,
               "status": "passed"
             },
             "match": {
@@ -50,7 +50,7 @@
             "line": 12,
             "name": "finalizar a conta",
             "result": {
-              "duration": 116000000,
+              "duration": 118000000,
               "status": "passed"
             },
             "match": {
@@ -62,7 +62,7 @@
             "line": 13,
             "name": "devo obter o resultado",
             "result": {
-              "duration": 25000000,
+              "duration": 31000000,
               "status": "passed"
             },
             "match": {
